@@ -1,0 +1,40 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+h1{
+	text-align: center;
+	font-size: 80px;
+	color: red;
+}
+
+#paragraph{
+	padding-top: 10px;
+}
+
+#navbar a{
+	text-align: right;
+}
+
+#navbar img{
+	max-width: 86px;
+	max-height: 58px;
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.mainpage{
+	background-image: url(https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg?w=730&crop=1);
+	background-size: cover;
+}
+
+.text{
+	background-color: #FFF;
+	text-align: center;
+}
+
+.text h1{
+	font-size: 30px;
+	color: black;
+}
